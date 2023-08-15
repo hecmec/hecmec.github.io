@@ -22,6 +22,9 @@ https://github.com/mmistakes/minimal-mistakes
 https://github.com/cotes2020/jekyll-theme-chirpy  
 > A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
+https://github.com/CloudCannon/base-jekyll-template
+> Knowledge base template for Jekyll.
+
 https://github.com/wowthemesnet/mediumish-theme-jekyll
 > Mediumish for Jekyll is designed and developed by Sal and it is free under MIT license.
 
