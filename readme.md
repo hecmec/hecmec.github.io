@@ -40,5 +40,12 @@ https://github.com/poole/lanyon
 https://github.com/thiagorossener/jekflix-template
 > A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
 
+https://jamstackthemes.dev/theme/jekyll-libdoc/
+> A Jekyll documentation theme with built-in search and playground
+> Playground for animation, scroll, paralanx
 
+https://jamstackthemes.dev/theme/jekyll-theme-yat/
+> Yet another theme for elegant writers with modern flat style.
 
+https://github.com/ohduran/Onassis
+> Simple black and white with categories as top menu, thats all
