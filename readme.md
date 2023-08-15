@@ -28,6 +28,9 @@ https://github.com/CloudCannon/base-jekyll-template
 https://github.com/wowthemesnet/mediumish-theme-jekyll
 > Mediumish for Jekyll is designed and developed by Sal and it is free under MIT license.
 
+https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll
+> Pintereso for Jekyll is designed by Sal 
+
 https://github.com/sighingnow/jekyll-gitbook
 > Make Jelly site have a GitBook look!
 
