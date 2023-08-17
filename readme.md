@@ -4,18 +4,31 @@ This is a user site example for hecmec.
 
 https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
 
-## Jekyll
+# Jekyll
+https://jekyllrb.com/docs
 
-https://jekyllrb.com/docs/liquid/
+## Installation
+Install ruby with rvm
+https://ubunlog.com/en/ruby-diferentes-formas-de-instalarlo-en-ubuntu-20-04/
 
-### intro with a theme:
+Then install jekyll with 
+    rvm install 3.0.0
+    rvm use 3.0.0 --default
+    cd $(rvm gemdir)
+    gem install jekyll bundler
+    
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jekyll-development-site-on-ubuntu-20-04
+https://rvm.io/rubies/rubygems
+
+
+## intro with a theme:
 https://technotim.live/posts/jekyll-docs-site/  
 https://www.youtube.com/watch?v=F8iOU1ci19Q  
 
-### Jekyll Themes
+## Jekyll Themes
 https://github.com/topics/jekyll-theme  
 
-#### Al-folio: Nice academic theme
+### Al-folio: Nice academic theme
 https://github.com/mmistakes/minimal-mistakes
 > Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building personal sites, blogs, and portfolios. As the name implies, styling is purposely minimalistic to be enhanced and customized by you smile.
 
