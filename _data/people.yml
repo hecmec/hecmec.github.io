@@ -1,0 +1,12 @@
+- name: "Mike"
+  occupation: "Web Developer"
+
+- name: "John"
+  occupation: "Web Designer"
+
+- name: "Jane"
+  occupation: "Tester"
+# access this with site.data.people
+# {% for person in site.data.people %}
+#   {{ person.name }} is a {{ person.occupation }}
+# {% endfor %}
